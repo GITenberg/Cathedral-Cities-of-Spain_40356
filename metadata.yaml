@@ -1,0 +1,29 @@
+_repo: Cathedral-Cities-of-Spain_40356
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40356-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Collins, W. W. (William Wiehe)
+    alias: Collins, William Wiehe
+    birthdate: 1862
+    deathdate: 1951
+    gutenberg_agent_id: '35751'
+    url: http://www.gutenberg.org/2009/agents/35751
+description: Illustrated by the author.
+gutenberg_issued: '2012-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40356'
+  lccn: 09029225
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcsh 'Cathedrals -- Spain'
+- !lcc 'DP'
+title: Cathedral Cities of Spain
+url: http://www.gutenberg.org/ebooks/40356
